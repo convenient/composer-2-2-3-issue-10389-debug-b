@@ -1,0 +1,16 @@
+{
+  "name": "convenient/composer-2-2-3-issue-10389-debug-b",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/convenient/composer-2-2-3-issue-10389-debug-a"
+    },
+    {
+      "packagist.org": false
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "convenient/composer-2-2-3-issue-10389-debug-a": "dev-main"
+  }
+}
